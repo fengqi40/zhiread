@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="begin.zhiread.EditActivity"
+    tools:showIn="@layout/activity_edit">
+
+    <android.support.v7.widget.AppCompatEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:hint="撰写标题"
+        android:background="@android:drawable/editbox_background"
+        android:textColor="#222222"
+        android:id="@+id/title"
+        android:layout_alignParentTop="true"
+        android:layout_alignBottom="@+id/scrollView" />
+    <android.support.v7.widget.AppCompatEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:hint="撰写副标题"
+        android:background="@android:drawable/editbox_background"
+        android:textColor="#222222"
+        android:id="@+id/secTitle"
+        android:layout_alignParentTop="true"
+        android:layout_alignBottom="@+id/scrollView" />
+
+    <ScrollView
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView">
+        <LinearLayout
+            android:id="@+id/recycle_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_below="@+id/scrollView"
+            android:layout_alignParentStart="true">
+            <android.support.v7.widget.AppCompatEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/detail"
+                android:singleLine="false"
+                android:hint="撰写正文"
+                android:background="@android:drawable/editbox_background" />
+            <begin.zhiread.RippleView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/intoEdit2"
+                android:layout_gravity="center_horizontal">
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorPrimary"
+                    android:textColor="#FFFFFF"
+                    android:text="下一步"/>
+            </begin.zhiread.RippleView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

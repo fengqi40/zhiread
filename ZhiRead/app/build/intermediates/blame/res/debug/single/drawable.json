@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_focused.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_dialog_bg.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/news.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/news.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_normal.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_check_selector.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_normal.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/user.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/user.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_focused.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_tap.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/timg.jpeg",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/timg.jpeg"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_close_bg_selector.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_selector.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/aa.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/aa.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_tap.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_wifi_disable.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_selector.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/find.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/find.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/like.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/like.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/cc.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/cc.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/bb.png",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/drawable/bb.png"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    }
+]

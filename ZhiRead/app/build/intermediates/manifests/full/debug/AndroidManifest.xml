@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="begin.zhiread"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="知悦"
+        android:supportsRtl="true"
+        android:theme="@style/MyAppTheme" >
+        <activity
+            android:name="begin.zhiread.CoverActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/MyAppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="begin.zhiread.IntroductionActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_introduction"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="begin.zhiread.PageActivity"
+            android:label="Page"
+            android:theme="@style/MyAppTheme" />
+        <activity
+            android:name="begin.zhiread.HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/MyAppTheme" />
+        <activity
+            android:name="begin.zhiread.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/MyAppTheme" />
+        <activity
+            android:name="begin.zhiread.ScrollingActivity"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/MyAppTheme" />
+        <activity
+            android:name="begin.zhiread.EditActivity"
+            android:label="@string/title_activity_edit"
+            android:theme="@style/MyAppTheme" />
+        <activity
+            android:name="begin.zhiread.DrawerActivity"
+            android:label="@string/title_activity_drawer"
+            android:theme="@style/MyAppTheme" />
+        <activity android:name="begin.zhiread.Edit2Activity" />
+        <activity
+            android:name="begin.zhiread.LoginActivity"
+            android:label="@string/title_activity_login" />
+    </application>
+
+</manifest>

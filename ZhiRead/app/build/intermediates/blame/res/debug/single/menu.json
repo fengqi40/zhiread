@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/menu/menu_home.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/menu/menu_home.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/menu/menu_page.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/menu/menu_page.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/menu/drawer.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/menu/drawer.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/menu/menu_test.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/menu/menu_test.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/menu/menu_scrolling.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/menu/activity_drawer_drawer.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/menu/activity_drawer_drawer.xml"
+    },
+    {
+        "merged": "/home/hogan/AndroidStudioProjects/ZhiRead/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/hogan/AndroidStudioProjects/ZhiRead/app/src/main/res/menu/menu_main.xml"
+    }
+]

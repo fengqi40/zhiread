@@ -1,0 +1,91 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="begin.zhiread.LoginActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/appbarLayout"
+        android:theme="@style/MyAppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/MyAppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/appbarLayout">
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            app:met_baseColor="#0056d3"
+            android:id="@+id/username"
+            android:hint="手机号码"
+            app:met_clearButton="true"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelText="手机号码"/>
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:id="@+id/password"
+            app:met_baseColor="#0056d3"
+            android:inputType="textPassword"
+            android:hint="密码"
+            app:met_clearButton="true"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelText="密码"/>
+        <begin.zhiread.RippleView
+            android:layout_margin="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/login"
+            android:layout_gravity="center_horizontal">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFFFF"
+                android:text="登录"/>
+        </begin.zhiread.RippleView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_margin="16dp"
+                android:layout_gravity="left|center_vertical"
+                android:layout_weight="0.5"
+                android:gravity="left"
+                android:text="注册账号"
+                android:id="@+id/newUser" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_gravity="right|center_vertical"
+                android:gravity="right"
+                android:layout_weight="0.5"
+                android:layout_margin="16dp"
+                android:text="找回密码"
+                android:id="@+id/forGot" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
